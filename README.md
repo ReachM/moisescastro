@@ -7,13 +7,13 @@ Sou brasileiro, atualmente estou estudando desenvolvimento web e tenho experiên
 
 ### Skills
 
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-CA2136?style=for-the-badge&logo=apache&logoColor=white)
-![Windowns](https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
-![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL&logoColor=4479A1)
+[Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+[HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+[Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+[Apache](https://img.shields.io/badge/Apache-CA2136?style=for-the-badge&logo=apache&logoColor=white)
+[Windowns](https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white)
+[SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
+[MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL&logoColor=4479A1)
 
 ## Social
 
@@ -23,5 +23,5 @@ Sou brasileiro, atualmente estou estudando desenvolvimento web e tenho experiên
 
 ## Contact
 
-![Gmail](https://img.shields.io/badge/moisescgb523@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+[Gmail](https://img.shields.io/badge/moisescgb523@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 [![Whatsapp](https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://wa.me/5563984446049?text=Ol%C3%A1%2C+estou+entrando+em+contato+pelo+github)](https://wa.me/5563984446049?text=Ol%C3%A1%2C+estou+entrando+em+contato+pelo+github)
