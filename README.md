@@ -17,11 +17,11 @@ Sou brasileiro, atualmente estou estudando desenvolvimento web e tenho experiên
 
 ## Social
 
-![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/castro_pmw?igshid=MzNlNGNkZWQ4Mg==)
-![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white&link=https://steamcommunity.com/profiles/76561198378292137/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/castro_pmw?igshid=MzNlNGNkZWQ4Mg==)](https://instagram.com/castro_pmw?igshid=MzNlNGNkZWQ4Mg==)
+[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white&link=https://steamcommunity.com/profiles/76561198378292137/)](https://steamcommunity.com/profiles/76561198378292137/)
 [![Linkedin Badge](https://img.shields.io/badge/moises-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/moisesdecastrosampaio/)](https://www.linkedin.com/in/moisesdecastrosampaio/)
 
 ## Contact
 
 ![Gmail](https://img.shields.io/badge/moisescgb523@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![Whatsapp](https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://wa.me/5563984446049?text=Ol%C3%A1%2C+estou+entrando+em+contato+pelo+github)
+[![Whatsapp](https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://wa.me/5563984446049?text=Ol%C3%A1%2C+estou+entrando+em+contato+pelo+github)](https://wa.me/5563984446049?text=Ol%C3%A1%2C+estou+entrando+em+contato+pelo+github)
