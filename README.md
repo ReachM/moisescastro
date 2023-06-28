@@ -23,5 +23,5 @@ Sou brasileiro, atualmente estou estudando desenvolvimento web e tenho experiên
 
 ## Contact
 
-[Gmail](https://img.shields.io/badge/moisescgb523@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![Gmail](https://img.shields.io/badge/moisescgb523@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 [![Whatsapp](https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://wa.me/5563984446049?text=Ol%C3%A1%2C+estou+entrando+em+contato+pelo+github)](https://wa.me/5563984446049?text=Ol%C3%A1%2C+estou+entrando+em+contato+pelo+github)
